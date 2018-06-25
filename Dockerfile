@@ -1,4 +1,4 @@
-FROM openjdk:8u102-jdk
+FROM openjdk:8u151-jdk-alpine3.7
 
 MAINTAINER Carlos Sanchez <carlos@apache.org>
 
